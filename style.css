@@ -261,7 +261,7 @@ footer {
 } */
 
 /* --- Responsive Navbar for Mobile/Tablet --- */
-@media (max-width: 768px) {
+@media (max-width: 874px) {
     .navbar {
         position: relative;
         flex-direction: column;
@@ -319,7 +319,7 @@ footer {
 }
 
 /* Hide menu icon on desktops */
-@media (min-width: 769px) {
+@media (min-width: 875px) {
     .menu-icon {
         display: none;
     }
