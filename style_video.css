@@ -1,0 +1,8 @@
+#video {
+    margin: 50px auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center; /* Center items horizontally */
+    align-items: center;     /* Optional: center items vertically if the container grows */
+}
